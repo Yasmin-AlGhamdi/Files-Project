@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\UserFile\UserFile\bin\Debug\netcoreapp3.1\UserFile.exe
+C:\Users\Yasmin\source\repos\UserFile\UserFile\bin\Debug\netcoreapp3.1\UserFile.deps.json
+C:\Users\Yasmin\source\repos\UserFile\UserFile\bin\Debug\netcoreapp3.1\UserFile.runtimeconfig.json
+C:\Users\Yasmin\source\repos\UserFile\UserFile\bin\Debug\netcoreapp3.1\UserFile.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\UserFile\UserFile\bin\Debug\netcoreapp3.1\UserFile.dll
+C:\Users\Yasmin\source\repos\UserFile\UserFile\bin\Debug\netcoreapp3.1\UserFile.pdb
+C:\Users\Yasmin\source\repos\UserFile\UserFile\obj\Debug\netcoreapp3.1\UserFile.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\UserFile\UserFile\obj\Debug\netcoreapp3.1\UserFile.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\UserFile\UserFile\obj\Debug\netcoreapp3.1\UserFile.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\UserFile\UserFile\obj\Debug\netcoreapp3.1\UserFile.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\UserFile\UserFile\obj\Debug\netcoreapp3.1\UserFile.dll
+C:\Users\Yasmin\source\repos\UserFile\UserFile\obj\Debug\netcoreapp3.1\UserFile.pdb
+C:\Users\Yasmin\source\repos\UserFile\UserFile\obj\Debug\netcoreapp3.1\UserFile.genruntimeconfig.cache
